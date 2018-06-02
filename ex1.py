@@ -1,2 +1,2 @@
-print('good')
-print('not good')
+print('it is good')
+
